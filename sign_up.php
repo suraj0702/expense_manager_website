@@ -22,7 +22,7 @@ require 'common2.php';
                 color: #9d9d9d;
                 bottom: 0;
                 width: 100%;
-				margin-top:21px;
+				margin-top:71px;
 				
             }
         </style>

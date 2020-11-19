@@ -27,7 +27,7 @@ $con= mysqli_connect("localhost", "root", "", "expense_manager") or die(mysqli_e
                 color: #9d9d9d;
                 bottom: 0;
                 width: 100%;
-				margin-top:180px;
+				margin-top:182px;
 				
             }
         </style>

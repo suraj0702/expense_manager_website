@@ -36,11 +36,12 @@ require 'common2.php';
                 margin: auto;
             }
             footer{
-                padding: 10px 0;
+                padding: 26px 0;
                 background-color: #101010;
                 color: #9d9d9d;
                 bottom: 0;
                 width: 100%;
+				
             }
         </style>
    </head>

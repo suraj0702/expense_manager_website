@@ -24,7 +24,7 @@ require 'common2.php'
                 color: #9d9d9d;
                 bottom: 0;
                 width: 100%;
-				margin-top:105px;
+				margin-top:190px;
 				
             }
 			#div1{

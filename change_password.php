@@ -24,6 +24,7 @@ require 'common2.php';
                 color: #9d9d9d;
                 bottom: 0;
                 width: 100%;
+				
             }
         </style>
     </head>
